@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png);
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0 0 10px black;
+}
+h1{
+    text-align: center;
+}
+h1:hover{
+    color: blue;
+}
+
+footer{
+    margin-top: 200px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+    padding: 10px;
+}
+a:hover{
+    color: white;
+    transition: all ease 0.8s;
+}
